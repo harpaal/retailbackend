@@ -1,0 +1,8 @@
+insert into Shop (id,shop_name,category, address,latitude, longitude, shop_owner)  values (1,'RelianceMart','SuperMarket','AnsalPlaza, Palam Vihar, Sector 23, Gurgaon','342.34','34.34','Karan');
+insert into Shop (id,shop_name,category, address,latitude, longitude, shop_owner)  values (2,'Numero','Mall','CityMall, Palam Vihar, Sector 22, Gurgaon','333.3234','54.432','David');
+insert into Shop (id,shop_name,category, address,latitude, longitude, shop_owner)  values (3,'BigBazar','SuperMarket','AnsalPlaza, Palam Vihar, Sector 23, Gurgaon','32.32324','51.43','Rajiv');
+insert into Shop (id,shop_name,category, address,latitude, longitude, shop_owner)  values (4,'Max','Mall','Ambiaence Mall, Palam Vihar, Sector 20, Gurgaon','422.34','14.41','Dexter');
+insert into Shop (id,shop_name,category, address,latitude, longitude, shop_owner)  values (5,'Bhavna Medical Store','MedicalStore','AnsalPlaza, Palam Vihar, Sector 23, Gurgaon','40.34','54.43','Sneha Sharma');
+insert into Shop (id,shop_name,category, address,latitude, longitude, shop_owner)  values (6,'Walter General Store','GeneralStore','MGX  MG Road, Sector 16, Gurgaon','41.334','34.2343','Peter');
+insert into Shop (id,shop_name,category, address,latitude, longitude, shop_owner)  values (7,'Swadeshi Medical','MedicalStore','MGX  MG Road, Sector 26, Gurgaon','141.3114','34.432','Ramdev');
+insert into Shop (id,shop_name,category, address,latitude, longitude, shop_owner)  values (8,'JackStore','GeneralStore','MGX  MG Road, Sector 16, Gurgaon','41.34','31.4323','Jack');
