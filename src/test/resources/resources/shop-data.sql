@@ -1,0 +1,6 @@
+insert into Shop (id,shop_name,category, address,latitude, longitude, shop_owner)  values (1,'RelianceMart','SuperMarket','AnsalPlaza, Palam Vihar, Sector 23, Gurgaon','34.34','34.34','Karan');
+insert into Shop (id,shop_name,category, address,latitude, longitude, shop_owner)  values (2,'Numero','Mall','CityMall, Palam Vihar, Sector 22, Gurgaon','33.34','54.43','David');
+insert into Shop (id,shop_name,category, address,latitude, longitude, shop_owner)  values (3,'BigBazar','SuperMarket','AnsalPlaza, Palam Vihar, Sector 23, Gurgaon','32.34','51.43','Rajiv');
+insert into Shop (id,shop_name,category, address,latitude, longitude, shop_owner)  values (4,'Max','Mall','Ambiaence Mall, Palam Vihar, Sector 20, Gurgaon','42.34','14.43','Dexter');
+insert into Shop (id,shop_name,category, address,latitude, longitude, shop_owner)  values (5,'Bhavna Medical Store','MedicalStore','AnsalPlaza, Palam Vihar, Sector 23, Gurgaon','40.34','54.43','Sneha Sharma');
+insert into Shop (id,shop_name,category, address,latitude, longitude, shop_owner)  values (6,'Walter General Store','GeneralStore','MGX  MG Road, Sector 16, Gurgaon','41.34','34.43','Peter');
